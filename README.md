@@ -8,7 +8,7 @@ Windows 서버 관리자 스타일의 번호 기반 대화형 CLI 원격 조작 
 
 ### 1. 통합 런처 실행 (추천)
 ```cmd
-py run.py
+py run.py , py C:\Users\A\.gemini\antigravity\scratch\win_cli_remote\run.py
 ```
 - 실행 후 메뉴에서 선택:
   - `1`: 원격 서버 (Agent Server) 실행
